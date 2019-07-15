@@ -1,0 +1,6 @@
+Django==2.2.3
+pep8==1.7.1
+pkg-resources==0.0.0
+pytz==2019.1
+rope==0.14.0
+sqlparse==0.3.0
